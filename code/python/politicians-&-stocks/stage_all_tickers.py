@@ -24,7 +24,7 @@ drive.mount('/content/drive')
 
 """## API Parameters"""
 
-api_key = "IdcyAL8kOdog9S4oRwYgUJp6QnepEOET"
+api_key = ""
 api_url_string = "&apiKey="+api_key
 
 api_timeout_minutes = 5
