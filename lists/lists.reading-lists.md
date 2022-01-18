@@ -1,1 +1,5 @@
-hello world!
+- Sam Harris
+- Neil DeGrasse Tyson
+- Jordan Peterson
+- Noam Chomsky
+- Ben Shapiro
