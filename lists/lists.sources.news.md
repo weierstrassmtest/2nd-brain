@@ -1,17 +1,18 @@
 # Conservative Bent
 
-- National Review
-- Daily Wire
-- Fox News
+- [National Review](https://www.nationalreview.com/)
+- [Daily Wire](https://www.dailywire.com/)
+- [Fox News](https://www.foxnews.com/)
 
 # Liberal Bent
 
-- The New York Times
-- The Washington Post
-- NPR
-- Jacobin
+- [The New York Times](https://www.nytimes.com/)
+- [The Washington Post](https://www.washingtonpost.com/)
+- [NPR](https://www.npr.org/)
+- [Jacobin](https://jacobinmag.com/)
+- [Current Affairs](https://www.currentaffairs.org/)
 
 # Centrist
 
-- RealClearPolitics
-- Axios
+- [RealClearPolitics](https://www.realclearpolitics.com/)
+- [Axios](https://www.axios.com/)
