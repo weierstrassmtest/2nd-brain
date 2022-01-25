@@ -1,0 +1,5 @@
+- Function to rearrange columns in pandas
+- Input(s): col_to_move, ref_col, binary_placement
+- col_to_move - this is the column being moved
+- ref_col  - this is the column which will be adjacent to the col_to_move
+- binary_placement - if `True`, then col_to_move will be placed in front of ref_col; if `False`, then col_to_move will be placed after ref_col
