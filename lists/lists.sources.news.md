@@ -16,3 +16,8 @@
 
 - [RealClearPolitics](https://www.realclearpolitics.com/)
 - [Axios](https://www.axios.com/)
+
+# Specialty Magazines
+
+- [Harper's Magazine](https://harpers.org/)
+- [Aeon](https://aeon.co/)
