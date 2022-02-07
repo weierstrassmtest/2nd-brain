@@ -1,3 +1,3 @@
-| Article Title | Article Source | URL |
-| ------------- | -------------- | --- |
-| The Anxiety of Influencers | Harper's Magazine | [Link](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/)
+| Article Title | Article Source |
+| ------------- | -------------- |
+| [The Anxiety of Influencers](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/) | Harper's Magazine
