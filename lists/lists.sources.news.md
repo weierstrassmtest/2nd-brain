@@ -3,6 +3,7 @@
 - [National Review](https://www.nationalreview.com/)
 - [Daily Wire](https://www.dailywire.com/)
 - [Fox News](https://www.foxnews.com/)
+- [Wall Street Journal](https://www.wsj.com/)
 
 # Liberal Bent
 
