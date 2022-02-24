@@ -1,6 +1,6 @@
-- Youtube Music
-- Youtube Premium
-- Youtube TV
+- YouTube Music
+- YouTube Premium
+- YouTube TV
 - ESPN+
 - Adobe (?)
 - LastPass
