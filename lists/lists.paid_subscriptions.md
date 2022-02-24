@@ -6,3 +6,4 @@
 - LastPass
 - Washington Post
 - The Athletic
+- Sam Harris
