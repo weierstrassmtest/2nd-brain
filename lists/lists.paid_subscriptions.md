@@ -4,3 +4,5 @@
 - ESPN+
 - Adobe (?)
 - LastPass
+- Washington Post
+- The Athletic
