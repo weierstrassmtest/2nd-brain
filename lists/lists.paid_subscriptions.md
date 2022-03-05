@@ -9,6 +9,7 @@
   - Sam Harris
   - The Athletic
   - Playstation Plus
+  - Spotify
 - Unsure
   - Adobe (?)
 
