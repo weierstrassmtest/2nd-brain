@@ -1,9 +1,14 @@
-- YouTube Music
-- YouTube Premium
-- YouTube TV
-- ESPN+
-- Adobe (?)
-- LastPass
-- Washington Post
-- The Athletic
-- Sam Harris
+- Retain
+  - YouTube Music
+  - YouTube Premium
+  - YouTube TV
+  -  ESPN+
+  -  LastPass
+- Remove
+  - Washington Post
+  - Sam Harris
+  - The Athletic
+  - Playstation Plus
+- Unsure
+  - Adobe (?)
+
