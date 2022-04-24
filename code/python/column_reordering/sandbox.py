@@ -1,4 +1,4 @@
-# Can be spark df OR pandas df
+# Spark DF version
 
 def Reorder_Columns(input_spark_frame, ordered_col_list):
     all_columns = input_spark_frame.columns
