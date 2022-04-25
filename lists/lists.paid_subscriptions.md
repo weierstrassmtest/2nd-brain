@@ -1,8 +1,9 @@
-- Retain
-  - YouTube Music
-  - YouTube Premium
-  - YouTube TV
-  -  ESPN+
-  -  LastPass
-  -  Adobe
-  - Barron's / Marketwatch?
+- YouTube Music
+- YouTube Premium
+- YouTube TV
+- ESPN+
+- LastPass
+- Adobe
+- Barron's / Marketwatch?
+- Accuweather
+- Any.do
