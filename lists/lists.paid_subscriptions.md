@@ -4,12 +4,5 @@
   - YouTube TV
   -  ESPN+
   -  LastPass
-- Remove
-  - Washington Post
-  - Sam Harris
-  - The Athletic
-  - Playstation Plus
-  - Spotify
-- Unsure
-  - Adobe (?)
-
+  -  Adobe
+  - Barron's / Marketwatch?
