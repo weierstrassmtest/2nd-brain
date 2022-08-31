@@ -4,6 +4,6 @@
 - ESPN+
 - LastPass
 - Adobe
-- Barron's / Marketwatch?
+- Barron's / WSJ
 - Accuweather
 - Any.do
