@@ -2,3 +2,4 @@
 | ------------- | -------------- | --- 
 | The Happiness Hypothesis | Jonathan Haidt | Nonfiction
 | Midnight Horizon | Daniel Jose Older | Fiction
+| Leonardo da Vinci | Walter Isaacson | Nonfiction
