@@ -10,3 +10,4 @@
 | Tempest Runner | Cavan Scott | Fiction | 2022.09
 | Out of Your Mind | Alan Watts | Nonfiction | 2022.09
 | The Spymasters | Chris Whipple | Nonfiction | 2022.10
+| Midnight Horizon | Daniel Jose Older | Fiction | 2022.11
