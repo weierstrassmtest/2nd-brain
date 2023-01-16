@@ -11,3 +11,5 @@
 | Out of Your Mind | Alan Watts | Nonfiction | 2022.09
 | The Spymasters | Chris Whipple | Nonfiction | 2022.10
 | Midnight Horizon | Daniel Jose Older | Fiction | 2022.11
+| Leonardo da Vinci | Walter Isaacson | Nonfiction | 2022.12
+| The Fallen Star | Claudia Gray | Fiction | 2022.12
