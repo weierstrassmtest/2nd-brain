@@ -2,5 +2,4 @@
 | ------------- | -------------- | --- 
 | The Happiness Hypothesis | Jonathan Haidt | Nonfiction
 | Systematic Theology, Volume 1 | Charles Hodge | Nonfiction
-| Hitler's Philosophers | Yvonne Sherratt | Nonfiction
-| Star Wars: Convergence | Zoraida Córdova | Fiction
+| How to Change Your Mind | Michael Pollan | Nonfiction
