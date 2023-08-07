@@ -1,7 +1,7 @@
 - YouTube TV
+- YouTube Premium
+- Netflix
 - ESPN+
 - LastPass
-- Adobe
-- Barron's / WSJ
 - Accuweather
 - Any.do
