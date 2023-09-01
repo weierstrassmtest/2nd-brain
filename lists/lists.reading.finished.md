@@ -15,3 +15,4 @@
 | The Fallen Star | Claudia Gray | Fiction | 2022.12
 | The Varieties of Scientific Experience | Carl Sagan | Nonfiction | 2023.03
 | Hitler's Philosophers | Yvonne Sherratt | Nonfiction | 2023.04
+| How to Change Your Mind | Michael Pollan | Nonfiction | 2023.08
